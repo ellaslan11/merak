@@ -5,7 +5,10 @@
 Consent-first AI memory companion MVP — shown inside a phone frame. Merak reads only what Ella **opts in** (photos, texts, calendar, voice memos), parses them into memory signals, and writes daily notes, weekly letters, and memory capsules.
 
 **Course:** CS 153 · **Track:** Application / Product  
-**Demo persona:** Ella · **Week:** Campus Week (Feb 17–23, 2026)
+**Demo persona:** Ella · **Week:** Campus Week (Feb 17–23, 2026)  
+**Repository:** [github.com/ellaslan11/merak](https://github.com/ellaslan11/merak)
+
+> **Development note:** This project was built and iterated **progressively on a local machine** over multiple sessions (phone parser, consent UI, vision pipeline, demo photos, evaluation docs). The full codebase was **pushed to GitHub at the last minute** for submission — commit history reflects a single initial push, not the day-by-day local workflow.
 
 ---
 
