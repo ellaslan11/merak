@@ -1,0 +1,107 @@
+{
+  "photo-ski": {
+    "caption": "three friends at a Heavenly trail sign in the snow",
+    "tags": ["joy", "friendship"],
+    "analyzedAt": "2026-02-23T12:00:00Z"
+  },
+  "photo-vangogh": {
+    "caption": "selfie in front of a Van Gogh starry night projection",
+    "tags": ["peaceful", "cinematic"],
+    "analyzedAt": "2026-02-23T12:00:00Z"
+  },
+  "photo-bar": {
+    "caption": "dim upscale bar with whiskey bottles glowing on the counter",
+    "tags": ["joy", "friendship"],
+    "analyzedAt": "2026-02-23T12:00:00Z"
+  },
+  "photo-white-lie": {
+    "caption": "group of friends in all-white outfits at a dorm party",
+    "tags": ["joy", "playful"],
+    "analyzedAt": "2026-02-23T12:00:00Z"
+  },
+  "photo-fries": {
+    "caption": "late-night waffle fries with friends and a neon boa",
+    "tags": ["playful", "friendship"],
+    "analyzedAt": "2026-02-23T12:00:00Z"
+  },
+  "photo-festival": {
+    "caption": "two friends at an outdoor festival during golden hour",
+    "tags": ["joy", "friendship"],
+    "analyzedAt": "2026-02-23T12:00:00Z"
+  },
+  "photo-bakery": {
+    "caption": "cardamom buns in a crowded bakery display case",
+    "tags": ["food", "joy", "friendship"],
+    "analyzedAt": "2026-02-23T12:00:00Z"
+  },
+  "photo-birthday": {
+    "caption": "dorm room decorated for an Office-themed birthday",
+    "tags": ["joy", "playful"],
+    "analyzedAt": "2026-02-23T12:00:00Z"
+  },
+  "photo-formal": {
+    "caption": "seven friends in black dresses at a Written In formal backdrop",
+    "tags": ["nostalgic", "friendship"],
+    "analyzedAt": "2026-02-23T12:00:00Z"
+  },
+  "photo-dog": {
+    "caption": "small white dog standing on a back patio",
+    "tags": ["peaceful", "solo"],
+    "analyzedAt": "2026-02-23T12:00:00Z"
+  },
+  "photo-sorority-social": {
+    "caption": "two friends at a Pi Phi social in a dining hall",
+    "tags": ["joy", "friendship"],
+    "analyzedAt": "2026-06-04T12:00:00Z"
+  },
+  "photo-car-matcha": {
+    "caption": "matcha drink in the car between classes",
+    "tags": ["peaceful", "solo"],
+    "analyzedAt": "2026-06-04T12:00:00Z"
+  },
+  "photo-ycombinator": {
+    "caption": "selfie at Y Combinator with CS 153 name tag",
+    "tags": ["joy", "learning"],
+    "analyzedAt": "2026-06-04T12:00:00Z"
+  },
+  "photo-pi-phi-mirror": {
+    "caption": "mirror selfie at Pi Beta Phi DREAM event",
+    "tags": ["nostalgic", "friendship"],
+    "analyzedAt": "2026-06-04T12:00:00Z"
+  },
+  "photo-japanese-dinner": {
+    "caption": "ramen, unagi rice bowl, and poke salad on the table",
+    "tags": ["joy", "friendship", "food"],
+    "analyzedAt": "2026-06-04T12:00:00Z"
+  },
+  "photo-robot-matcha": {
+    "caption": "robot kiosk preparing a matcha drink",
+    "tags": ["playful", "solo"],
+    "analyzedAt": "2026-06-04T12:00:00Z"
+  },
+  "photo-cat": {
+    "caption": "fluffy cat peeking through a shelf gap",
+    "tags": ["peaceful", "solo"],
+    "analyzedAt": "2026-06-04T12:00:00Z"
+  },
+  "photo-memory-wall": {
+    "caption": "corkboard collage of printed friend photos",
+    "tags": ["nostalgic", "friendship"],
+    "analyzedAt": "2026-06-04T12:00:00Z"
+  },
+  "photo-fortune-cookie": {
+    "caption": "panda express fortune cookie slip in hand",
+    "tags": ["playful", "solo"],
+    "analyzedAt": "2026-06-04T12:00:00Z"
+  },
+  "photo-dog-walk": {
+    "caption": "small white dog on a purple leash during a walk",
+    "tags": ["peaceful", "solo"],
+    "analyzedAt": "2026-06-04T12:00:00Z"
+  },
+  "photo-patio-dinner": {
+    "caption": "calamari and bread on an outdoor patio table with friends",
+    "tags": ["joy", "friendship"],
+    "analyzedAt": "2026-06-04T12:00:00Z"
+  }
+}
